@@ -1,0 +1,10 @@
+Semestre 1 :
+
+	- (4) Algorithmique M1 Bioinfo : 16 CM + 16 TD + 11 TP + 5 EAD (avant : 12/20/16)
+	- (3) Intro à la bio-analyse : 4 CM + 13,33 TP + 2,67 EAD
+	- Systems biology (ECN + nouveau Master)
+
+Semestre 2 :
+	
+	- (2) Dev web : 10CM + 10TD + 22TP  (avant : 9h20/16/20)
+	- (1) Intro à PHP : 4h TD + 11h TP (8*1h20 + 20 mns)  -> faire une sort de livret examples + exercises
